@@ -1,0 +1,16 @@
+#+title:Apelles Linux
+#+author:Ayush Jayaswal
+Apelles is currently in its early stages of development. For Now, Apelles is to be an installation script designed to create a streamlined, efficient environment with a focus on tiling window managers and terminal-centric operations.
+* Philosophy
+Apelles was an ancient Greek painter who lived in the 4th century BCE.
+He was widely regarded as one of the greatest painters of antiquity, even referred to as "The Prince of Painters" by Pliny the Elder.
+The name "Apelles" draws inspiration from the ancient Greek painter renowned for his mastery of simplicity. Much like how Apelles created masterpieces using only four colors, this project aims to achieve something valuable through minimalism and focused design.
+It's not just about reducing features, but about thoughtful curation of tools that provide maximum utility with minimum complexity.
+* Guiding Principles
+- One Program must do one task and do it well.
+- Software Written of Apelles must be compatible with other Distributions of Linux
+- Optimize resource usage without sacrificing functionality.
+- Provide powerful tools that users can combine in unique ways.
+- Bloat must be avoided at all times. Though, Bloatware is a subjective term, Apelles Linux must encourage Simplicity in design.
+* Collaboration
+All Collaborations are most welcome. Please provide your valuable imput.
